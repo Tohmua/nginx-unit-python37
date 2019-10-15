@@ -4,3 +4,4 @@ Nginx unit built with Python 3.7 as Debian, the default base image for the nginx
 ### Build
  - `docker build -t nginx-unit-python37 .`
 
+The nginx-unit configuration is kept in `/usr/state`
